@@ -15,7 +15,7 @@ const ListOfWinnerDetail2024Comp2 = () => {
                 <div className="low-detail-after-event-row">
 
                     <div className="low-detail-after-event-video">
-                        <iframe className="mt-5"  width="100%" height="315" src="https://www.youtube.com/embed/2xjIXM-T5YA?si=Iwsg4hUdMstsNQq5" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+                        <iframe className="mt-5"  width="100%" height="415" src="https://www.youtube.com/embed/2xjIXM-T5YA?si=Iwsg4hUdMstsNQq5" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
                     </div>
         
                     <div className="low-detail-after-event-p">
