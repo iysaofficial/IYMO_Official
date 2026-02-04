@@ -9,9 +9,7 @@ const LogoComp = () =>{
                     <li>
                         <img src="/assets/images/logo/LogoIYSA.webp" alt=""/>
                     </li>
-                    <li>
-                        <img src="/assets/images/logo/LOGOAKTUARIA.png" alt=""/>
-                    </li>
+                    
                     <li>
                         <img src="/assets/images/logo/warmadewa.png" alt=""/>
                     </li>
