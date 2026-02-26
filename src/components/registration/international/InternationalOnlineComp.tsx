@@ -25,7 +25,7 @@ const InternationalOnlineComp: React.FC = () => {
 
   useEffect(() => {
     const scriptURL =
-      "";
+      "https://script.google.com/macros/s/AKfycbxfMbVYMZ9GJ-hMAGiRNg63oL5HJtyEH5ofEBO319eQem6RF2oSazQ9EksaaLOzvissqQ/exec";
 
     const form = document.forms.namedItem("regist-form");
     let buttonCounter = 0;
@@ -122,7 +122,7 @@ const InternationalOnlineComp: React.FC = () => {
           {/* INFORMASI UMUM SECTION */}
           <InformasiUmumSection />
 
-          <input type="hidden" name="PRICE" value="Rp. 300.000" readOnly />
+          <input type="hidden" name="PRICE" value="75 USD" readOnly />
 
           {/* Submit Button */}
           <div className="submit-container">
@@ -509,6 +509,8 @@ const DataSekolahSection: React.FC = () => (
         <label className="field-label">Educational Level</label>
         <select name="EDUCATIONAL_LEVEL" className="select-field" required>
           <option value="">--Choose Your Educational Level--</option>
+          <option value="Elementary">Elementary</option>
+          <option value="Junior High School">Junior High School</option>
           <option value="Senior High School">Senior High School</option>
           <option value="University">University</option>
         </select>
