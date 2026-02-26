@@ -19,7 +19,8 @@ const HeroComp = () =>{
                     </div>
                     <br />
                     <br />
-                    <Link href="#" className="btn">Coming Soon 2026</Link>
+                    <Link href="/registration" className="btn">Registration Here!</Link>
+                    <Link href="https://drive.google.com/file/d/1g3Z1P5fGJGdDxoPklfWcYszwLWlQmE-l/preview" target="_blank" className="btn">GuideBook</Link>
             </div>
             <div className="hero-img">
                 <img src="/assets/images/logo/IYMO.png" alt="" />
