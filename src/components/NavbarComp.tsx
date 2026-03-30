@@ -104,7 +104,7 @@ const NavbarComp: React.FC = () => {
                     </li>
                     
                     <li className='menu-item'>
-                        <Link href="https://drive.google.com/file/d/1h9_GF9ySoPID8FtusJeDBwV9Vc9z0ni7/view?usp=sharing" 
+                        <Link href="https://drive.google.com/file/d/1kOPuGsARqMyJVzCmzR1p4-GcCsvlqmIt/view?usp=sharing" 
                            target='_blank' 
                            rel="noopener noreferrer">
                             Guide Book
