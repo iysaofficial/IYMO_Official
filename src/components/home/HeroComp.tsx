@@ -19,8 +19,9 @@ const HeroComp = () =>{
                     </div>
                     <br />
                     <br />
-                    <Link href="/registration" className="btn">Registration Here!</Link>
-                    <Link href="https://drive.google.com/file/d/1kOPuGsARqMyJVzCmzR1p4-GcCsvlqmIt/view?usp=sharing" target="_blank" className="btn">GuideBook</Link>
+                    {/* <Link href="/registration" className="btn">Registration Here!</Link> */}
+                    <Link href="#" className="btn">Registration Closed!</Link>
+                    {/* <Link href="https://drive.google.com/file/d/1kOPuGsARqMyJVzCmzR1p4-GcCsvlqmIt/view?usp=sharing" target="_blank" className="btn">GuideBook</Link> */}
             </div>
             <div className="hero-img">
                 <img src="/assets/images/logo/IYMO.png" alt="" />
