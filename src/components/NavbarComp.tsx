@@ -125,6 +125,13 @@ const NavbarComp: React.FC = () => {
                         </Link>
                         <ul className='sub-menu'>
                             <li className='sub-item'>
+                                <Link href="https://drive.google.com/drive/folders/1AvluCvi62Dbz6pD-O-eyJ21xACpTKttY?usp=sharing" 
+                                   target='_blank' 
+                                   rel="noopener noreferrer">
+                                    Certificate Supervisor 2026
+                                </Link>
+                            </li>
+                            <li className='sub-item'>
                                 <Link href="https://drive.google.com/drive/folders/16h0q-dg-HwyRXFcQz59VQ_bf2mD4zBXg?usp=sharing" 
                                    target='_blank' 
                                    rel="noopener noreferrer">
